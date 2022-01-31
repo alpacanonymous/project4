@@ -1,8 +1,10 @@
 ![puppies](https://github.com/stevenaddison/Project-4/blob/main/images/puppybanner.jpeg?raw=true)
 # Petfinder Pawpularity Prediction Using Neural Networks
-**Authors:** Angela Kim, Steven Addison, Aisha Baitemirova-Othman
-
-**Instructor:** David Elliott
+<p>
+<b>Authors:</b> Aisha Baitemirova-Othman, Angela Kim, Steven Addison, Wahaj Dar
+<br>
+<b>Instructor:</b> David Elliott
+</p>
 
 
 ## Overview
