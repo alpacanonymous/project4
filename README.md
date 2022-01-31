@@ -1,6 +1,7 @@
 ![puppies](https://github.com/stevenaddison/Project-4/blob/main/images/puppybanner.jpeg?raw=true)
 # Petfinder Pawpularity Prediction Using Neural Networks
-Authors: Steven Addison, Angela Kim, Aisha Baitemirova-Othman
+**Authors:** Angela Kim, Steven Addison, Aisha Baitemirova-Othman
+**Instructor:** David Elliott
 
 
 ## Overview
@@ -102,15 +103,12 @@ First, we would look into what goes into determining `Pawpularity`. Another thin
 │    ├── test.csv
 │    └── train.csv
 ├── [images]
-│    ├── baseline_model.png
-│    ├── best_ann.png
-│    ├── best_cnn.png
-│    ├── blur_ann.png
-│    ├── pawpularity_distribution.png
-│    └── puppybanner.png
+├── [pdfs]
+│    ├── github.pdf
+│    ├── notebook.pdf
+│    └── presentation.pdf
 ├── .gitignore
 ├── README.md
-├── finalnotebook.ipynb
-├── finalnotebook.pdf
+├── notebook.ipynb
 └── presentation.pdf
 ```
